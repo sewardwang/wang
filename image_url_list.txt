@@ -1,0 +1,10 @@
+e:/python work/aistudio/data/face_imagehaha/bb9d9858-3125-11ea-851e-08002700400f.jpg	http://b-ssl.duitang.com/uploads/item/201608/09/20160809161209_sK8xX.jpeg
+e:/python work/aistudio/data/face_imagehaha/bba38bc8-3125-11ea-94f1-08002700400f.jpg	http://b-ssl.duitang.com/uploads/item/201803/14/20180314205030_krvxq.jpg
+e:/python work/aistudio/data/face_imagehaha/bbbc1cd8-3125-11ea-befc-08002700400f.jpg	http://imgsrc.baidu.com/forum/w=580/sign=db5b5b1954da81cb4ee683c56267d0a4/1e8898b7d0a20cf447984d3273094b36adaf99d9.jpg
+e:/python work/aistudio/data/face_imagehaha/bbc2d398-3125-11ea-a68d-08002700400f.jpg	http://b-ssl.duitang.com/uploads/item/201511/01/20151101091831_3xUjh.jpeg
+e:/python work/aistudio/data/face_imagehaha/bbd7bb28-3125-11ea-a5d9-08002700400f.jpg	http://b-ssl.duitang.com/uploads/item/201607/07/20160707084027_tUcnB.thumb.700_0.jpeg
+e:/python work/aistudio/data/face_imagehaha/bbe96e68-3125-11ea-9b1f-08002700400f.jpg	http://b-ssl.duitang.com/uploads/item/201607/19/20160719212057_hPY4r.jpeg
+e:/python work/aistudio/data/face_imagehaha/bc1c6548-3125-11ea-93a8-08002700400f.jpg	http://img5.duitang.com/uploads/item/201512/22/20151222121947_jU8fv.jpeg
+e:/python work/aistudio/data/face_imagehaha/bc5f88c8-3125-11ea-8f35-08002700400f.jpg	http://upload.jxntv.cn/2016/0123/1453517612763.jpg?w=600
+e:/python work/aistudio/data/face_imagehaha/bc6ad368-3125-11ea-8139-08002700400f.jpg	http://pic1.win4000.com/pic/8/28/421a639754.jpg
+e:/python work/aistudio/data/face_imagehaha/bc8f9978-3125-11ea-b171-08002700400f.jpg	http://img.ji-qi.com/3/2019/0114/20190114020524228.jpg
